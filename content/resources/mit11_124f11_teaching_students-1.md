@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/7135f23f736b13311acdf8ee50ba818e_MIT11_124F11_teaching_students.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: MIT11_124F11_teaching_students.srt
+uid: 7135f23f-736b-1331-1acd-f8ee50ba818e
+---
